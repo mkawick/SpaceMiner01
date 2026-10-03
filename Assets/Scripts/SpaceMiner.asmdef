@@ -1,0 +1,15 @@
+{
+    "name": "SpaceMiner",
+    "rootNamespace": "SpaceMiner",
+    "references": [
+        "Unity.Entities",
+        "Unity.Entities.Graphics",
+        "Unity.Physics",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Burst",
+        "Unity.InputSystem"
+    ],
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

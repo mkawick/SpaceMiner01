@@ -1,4 +1,6 @@
 ﻿<Solution>
+  <Project Path="SpaceMiner.csproj" />
+  <Project Path="VFolders.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
 </Solution>
